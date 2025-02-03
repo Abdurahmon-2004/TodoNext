@@ -1,5 +1,11 @@
 # 📝 Next.js 13 To-Do App
 
+npm run dev
+
+npm run json-server
+
+
+
 This project is a simple To-Do App built with the new Next.js 13 App Router. In this video tutorial, we show you how to create CRUD operations using json-server and build a beautiful UI with Tailwind CSS.
 
 ## 🎥 Video Tutorial
